@@ -39,3 +39,7 @@ Um componente que exibe o nome de um participante e um botão para remover o par
 ### ListEmptyComponent
 
 Um componente que é renderizado quando a lista de participantes está vazia. Ele exibe uma mensagem solicitando ao usuário que adicione participantes à lista de presença.
+
+## Demostração
+[Screen_recording_20240313_140551.webm](https://github.com/marvim-macario/imhere/assets/32857539/926b7dfd-01c0-4e00-8185-cb0e848a6028)
+
